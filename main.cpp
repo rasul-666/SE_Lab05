@@ -9,5 +9,5 @@ cout << "Enter two integer numbers"<< endl;
 cin >> a >> b ;
 int c;
 c = a + b;
-count <<c;
+cout <<c;
 }
