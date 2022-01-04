@@ -10,4 +10,6 @@ cin >> a >> b ;
 int c;
 c = a + b;
 cout <<c;
+c = a - b;
+cout <<c;
 }
